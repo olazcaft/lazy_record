@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Mkdocs annotations fixes (#7600)
