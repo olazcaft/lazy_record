@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
