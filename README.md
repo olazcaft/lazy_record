@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
