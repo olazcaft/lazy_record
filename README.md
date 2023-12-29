@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
