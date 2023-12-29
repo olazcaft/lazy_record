@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Update pyproject.toml and Docs (#7274)
