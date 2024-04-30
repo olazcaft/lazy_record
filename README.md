@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add dota8.yaml and O tests (#7394)
