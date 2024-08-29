@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
