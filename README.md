@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Retry once for Docker CI failures (#8164)
